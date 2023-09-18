@@ -4,7 +4,7 @@
 
 A responsive website for showcasing and promoting online courses on various topics. This website is built using HTML, CSS, and JavaScript and features a clean and modern design.
 
-![Website Screenshot](screenshots/homepage.png)
+![Website Screenshot](https://github.com/rajsha10/Multi_page_website/blob/main/Screenshot%202023-09-18%20223615.png)
 
 ## Table of Contents
 
