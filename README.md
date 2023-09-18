@@ -13,7 +13,6 @@ A responsive website for showcasing and promoting online courses on various topi
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
